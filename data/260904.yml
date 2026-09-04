@@ -7,7 +7,7 @@ about:
   head: 0ada9ef
   archived: false
   latestVersion: 2.6.3
-  collectedAt: 2026-09-04T19:21:17Z
+  collectedAt: 2026-09-04T21:14:07Z
 timeline:
   created: 2018-05-02
   lastCommit: 2026-03-15
@@ -88,6 +88,104 @@ total:
   openIssue: 2
   commit: 1567
 ---
+path: /home/runner/.x-repo/github.com/testingisdocumenting/webtau
+collectedAt: 2026-09-04T21:14:11Z
+loc:
+  Java:
+    code: 36506
+    comments: 12315
+    blanks: 10021
+    files: 705
+  Groovy:
+    code: 24436
+    comments: 6504
+    blanks: 6312
+    files: 611
+  Json:
+    code: 8083
+    comments: 0
+    blanks: 0
+    files: 240
+  Xml:
+    code: 4663
+    comments: 817
+    blanks: 645
+    files: 69
+  JavaScript:
+    code: 3965
+    comments: 1011
+    blanks: 653
+    files: 66
+  Tsx:
+    code: 3084
+    comments: 842
+    blanks: 469
+    files: 55
+  Css:
+    code: 1270
+    comments: 850
+    blanks: 336
+    files: 62
+  Html:
+    code: 882
+    comments: 287
+    blanks: 48
+    files: 29
+  TypeScript:
+    code: 193
+    comments: 95
+    blanks: 29
+    files: 8
+  Bash:
+    code: 65
+    comments: 18
+    blanks: 3
+    files: 18
+  Kotlin:
+    code: 53
+    comments: 0
+    blanks: 10
+    files: 1
+  Graphql:
+    code: 34
+    comments: 30
+    blanks: 8
+    files: 2
+  Svg:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 2
+  Batch:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 5755
+    blanks: 2197
+    files: 512
+  Text:
+    code: 0
+    comments: 13
+    blanks: 0
+    files: 9
+total:
+  code: 83724
+  comments: 28541
+  blanks: 20816
+  files: 2392
 ---
 date: "2026-08-24"
 repo:
