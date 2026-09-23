@@ -4,7 +4,7 @@
 
 WebTau (web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests. Test across REST-API, WebSocket, GraphQL, Browser, Database, CLI and Business Logic with a consistent set of matchers and concepts. REPL mode speeds-up tests development. Rich reporting cuts down investigation time.
 
-[![x-cmd/install — webtau Code Quality Monitoring Repo Card](https://repo.x-cmd.io/webtau.svg)](https://x-cmd.com/install/webtau)
+[![x-cmd/install — webtau Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/webtau.svg)](https://x-cmd.com/install/webtau)
 
 ## Install
 
@@ -30,9 +30,9 @@ Overall score: **3.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 1 | 4 | 7 | 1 | 0 | 20 |
-| last720d | 2024-10-02 | 1 | 12 | 7 | 2 | 2 | 24 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 1 | 4 | 7 | 1 | 0 | 20 |
+| last720d | 2024-10-03 | 1 | 12 | 7 | 2 | 2 | 24 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for webtau lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:01:03Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:02:47Z._
