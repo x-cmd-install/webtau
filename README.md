@@ -31,7 +31,7 @@ Overall score: **3.1 / 10**
 Lowest-scoring checks:
 
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/22 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 360d | 2025-10-04 | 1 | 4 | 7 | 1 | 0 | 20 |
-| last720d | 2024-10-09 | 1 | 12 | 7 | 2 | 2 | 24 |
+| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 360d | 2025-10-05 | 1 | 4 | 7 | 1 | 0 | 20 |
+| last720d | 2024-10-10 | 1 | 12 | 7 | 2 | 2 | 24 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for webtau lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:41:36Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:26:00Z._
