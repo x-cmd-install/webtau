@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-25 | 1 | 4 | 7 | 1 | 0 | 20 |
-| last720d | 2024-11-30 | 1 | 12 | 7 | 1 | 0 | 24 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 1 | 4 | 7 | 1 | 0 | 20 |
+| last720d | 2024-12-01 | 1 | 12 | 7 | 1 | 0 | 24 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for webtau lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:44:14Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:43:27Z._
